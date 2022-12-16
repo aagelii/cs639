@@ -10,3 +10,6 @@ Relevant files are mainly:
 
 - train2.ipynb containing the first neural network with no augmented data
 - data_aug.ipynb containing the code to augment the data then train on it
+
+
+To load the models, use the respective .h5 files
